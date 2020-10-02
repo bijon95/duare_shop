@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025733178901",
+    "firebase_url": "https://duareshop-a2e44.firebaseio.com",
+    "project_id": "duareshop-a2e44",
+    "storage_bucket": "duareshop-a2e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025733178901:android:948f418e3f5551a5eec01c",
+        "android_client_info": {
+          "package_name": "net.duare.duare_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025733178901-6q60j7rodrd8059j6vauefvge7ndps5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGrjMrscnwww5JWTULEadDDMUxPBhuj1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025733178901-6q60j7rodrd8059j6vauefvge7ndps5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
